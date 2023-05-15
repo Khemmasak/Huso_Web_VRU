@@ -1,11 +1,11 @@
 # Node artifact files
-node_modules/
+#node_modules/
 .firebase/
 #plugins/
 build/
 example/
-.htaccess*
-assets/config/config.inc.php*
+#.htaccess*
+#assets/config/config.inc.php*
 *.ini
 # JPEG
 *.jpg
